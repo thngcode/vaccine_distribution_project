@@ -1,0 +1,4 @@
+venv/
+code/credentials*.json
+.idea/
+desktop.ini
